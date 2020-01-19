@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="roll_button_label">ROLL</string>
+    <string name="hold_button_label">HOLD</string>
+    <string name="reset_button_label">RESET</string>
+</resources>
